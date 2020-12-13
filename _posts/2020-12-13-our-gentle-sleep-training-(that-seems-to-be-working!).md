@@ -2,7 +2,7 @@
 layout: post
 title:  "Our gentle sleep training (that seems to be working!)"
 date:   2020-12-13 15:11:27 -0800
-categories: baby sleep
+categories:
 ---
 
 # Our gentle sleep training (that seems to be working!)
