@@ -28,7 +28,7 @@ twitter_username: stephanieblack
 github_username:  stephaniewilkinson
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
