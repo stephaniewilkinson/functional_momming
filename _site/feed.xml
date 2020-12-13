@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-13T15:13:18-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Our gentle sleep training (that seems to be working!)</title><link href="http://localhost:4000/jekyll/update/2020/12/13/our-gentle-sleep-training-(that-seems-to-be-working!).html" rel="alternate" type="text/html" title="Our gentle sleep training (that seems to be working!)" /><published>2020-12-13T15:11:27-08:00</published><updated>2020-12-13T15:11:27-08:00</updated><id>http://localhost:4000/jekyll/update/2020/12/13/our-gentle-sleep-training-(that-seems-to-be-working!)</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/13/our-gentle-sleep-training-(that-seems-to-be-working!).html">&lt;h1 id=&quot;our-gentle-sleep-training-that-seems-to-be-working&quot;&gt;Our gentle sleep training (that seems to be working!)&lt;/h1&gt;
+
+&lt;p&gt;I read all the sleep books before baby was born. I knew you were supposed to put your baby down drowsy but asleep, and not too nurse or rock them to sleep.&lt;/p&gt;
+
+&lt;p&gt;But we had a Snoo, so baby slept pretty good regardless of what I did. I put her down, turned on the Snoo, and she was out.&lt;/p&gt;
+
+&lt;p&gt;Then it came time to graduate from the Snoo when she was six months old. I put her in the crib and she hated it immediately. I tried to put her in the crib first, and then subsequently swap her to the Snoo after first wakeup. This was a hell week of 8-10 wakeups per night, so I decided to rip off the band-aid and go full crib. How could it possibly be worse?&lt;/p&gt;
+
+&lt;p&gt;In order to get any sleep at all, I started nursing her to sleep and then sneaking her in the crib. Of course, this led to me having to nurse her about every hour all night long.&lt;/p&gt;
+
+&lt;p&gt;She got used to the crib, but we now had a sleep dependency and for six weeks I didn’t sleep more than two hours in a row.&lt;/p&gt;
+
+&lt;p&gt;One night, I finally put her down without nursing. She promptly lost her noodle. When I came back ten minutes later she was hoarse with snot on her forehead. My partner was horrified that I would let her cry. Chastened, I went back to nursing on demand.&lt;/p&gt;
+
+&lt;p&gt;I bought Taking Cara Babies but I got cold sweats just thinking about all the sobbing I’d have to endure. Even in the videos you can hear babies screaming in the background.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-heres-what-i-did&quot;&gt;So here’s what I did.&lt;/h2&gt;
+
+&lt;p&gt;I started reading a book with her after nursing her at night. She wants to fall asleep while nursing, but she perks up when I sit her up and read to her. I hold her and rock her till she’s sleepy, then put her in the crib.&lt;/p&gt;
+
+&lt;p&gt;The first night she stood up immediately and was pretty mad. I soothed her and laid her down. Rinse and repeat about ten times. By the end of the week she stood up once but then was fine being comforted on her back in the crib.&lt;/p&gt;
+
+&lt;p&gt;The next week, I focused on putting her down as awake as possible.&lt;/p&gt;
+
+&lt;p&gt;Now, it’s two weeks later. Last night, I put her down and she rolled over and went to sleep. These days, I don’t need to pick her back up, I can usually just lay her down and sing to her or shush her without taking her out of the crib.&lt;/p&gt;
+
+&lt;p&gt;Last night, she only woke me up twice, so I’m calling this a huge improvement.&lt;/p&gt;
+
+&lt;p&gt;We still have a ways to go for her to be able to put herself to sleep. I’m still rocking her. But I hope we’ll get there, little by little.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Our gentle sleep training (that seems to be working!)</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/12/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-12-13T15:11:27-08:00</published><updated>2020-12-13T15:11:27-08:00</updated><id>http://localhost:4000/jekyll/update/2020/12/13/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/13/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>

@@ -1,6 +1,8 @@
 ---
-created: 2020-12-12T06:50:28-08:00
-modified: 2020-12-12T16:05:04-08:00
+layout: post
+title:  "Our gentle sleep training (that seems to be working!)"
+date:   2020-12-13 15:11:27 -0800
+categories: jekyll update
 ---
 
 # Our gentle sleep training (that seems to be working!)
