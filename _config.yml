@@ -21,8 +21,8 @@
 title: Writing | Stephanie Wilkinson
 description: >- # this means to ignore newlines until "baseurl:"
   Functional momming.
-baseurl: "/writing" # the subpath of your site, e.g. /blog
-url: "https://stephanieawilkinson.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://functionalmomming.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephanieblack
 github_username:  stephaniewilkinson
 
